@@ -1,6 +1,6 @@
 # Mutant-Selection-Techniques-Evaluation
 
-This repository is a companion to the paper "_Evaluating Static Mutants Selection Techniques for Accurate Mutation Score Approximation_". It contains scripts to reproduce the results of the experiments. The data needed to reproduce the results can be found [here](https://figshare.com/s/68879dd4e31b51272921). To reproduce download the figshare zip file and extract it at the root of the project. 
+This repository is a companion to the paper "_Evaluating Static Mutants Selection Techniques for Accurate Mutation Score Approximation_". It contains scripts to reproduce the results of the experiments. The data needed to reproduce the results can be found [here](https://figshare.com/s/fece5e988d03db89126d). To reproduce download the figshare zip file and extract it at the root of the project. 
 
 ## Data
 
